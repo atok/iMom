@@ -1,0 +1,10 @@
+db.chrono
+*.iml
+target/
+.idea/
+db.json
+notes.db
+dl.exe
+data/
+scenicView.properties
+tools/
